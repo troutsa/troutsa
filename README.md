@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi! My name is Sarah Trout and I am a freshman pursuing the biology major with the pre-veterinarian track. I enjoy reading, animals, video games, and math. When it comes to data science I am interested in possibly doing data research on animals and helping discover new ways to improve animal lives alongside my goal to be a vet in a small practice. I can't wait for all the opportunities this class will bring and am excited to learn more in depth on what data science as a career entails.
 
 <!--
 **troutsa/troutsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
